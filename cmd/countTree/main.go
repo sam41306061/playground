@@ -6,7 +6,7 @@ import (
 )
 
 func getInput() string {
-	return `s..##.......
+	return `..##.......
 	#...#...#..
 	.#....#..#.
 	..#.#...#.#

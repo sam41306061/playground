@@ -1,5 +1,6 @@
 fn get_input() ->&'static str {
-	return "orward 5
+	return 
+"forward 5
 down 5
 forward 8
 up 3
